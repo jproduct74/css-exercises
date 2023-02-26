@@ -1,0 +1,35 @@
+.myfirstdiv {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+.anotherdiv {
+    background-color: blue;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold
+}
+.title1 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
+}
+.subpar1 {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+
+}
+.testbutton {
+    background-color: pink;
+    color: black;
+}
+.imagebutton1 {
+    height: 170px;
+    width: 220px;
+    background-image: url('https://media.tenor.com/1y8zDc-ll-EAAAAM/3d-saul-saul-goodman.gif');
+}
